@@ -1,0 +1,22 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 43%, rgba(10,69,167,1) 100%);
+}
+
+.card-color{
+    background-color:  rgb(128, 121, 121);
+}
+
+.jcolor{
+    background-color: rgb(223, 253, 167);
+}
+
+.buttonb{
+    background-color: rgb(223, 253, 167);
+    color: black;;
+}
+
+.marg{
+    margin-top: 30px;
+
+}
